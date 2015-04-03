@@ -1,1 +1,16 @@
-I just want to make sure I understand how this works.
+/* I just want to make sure I understand how this works. */
+
+
+.keep_right {
+  float:right;
+  width:50%;
+}
+
+.hide_this {
+  display:block;
+}
+
+.show_this {
+  display:none;
+}
+
